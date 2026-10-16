@@ -13,3 +13,7 @@ The interface respects reduced-motion preferences. Normal motion supports image 
 Public contact: tianwen.wang@torontomu.ca. Project links point to the author's existing GitHub repositories. Project screenshots use synthetic records; their captions disclose rendering and implementation limitations. AI-assisted and team contributions are identified in the project descriptions.
 
 The portrait is supplied by Tianwen Wang for this portfolio; public availability does not grant permission to reuse it. No additional open-source license is granted for the original portfolio code or personal content by this README. Third-party assets retain their own licenses; see THIRD_PARTY_NOTICES.md and the font notices in assets/.
+
+## Moved portfolio
+
+The canonical portfolio is now https://maxtianwen.github.io/. This repository retains its history and licensed assets. The project landing page uses client-side location.replace to preserve query and fragment. It is not a custom HTTP301; without JavaScript use the visible manual links. Root site must be healthy before publishing this redirect.
